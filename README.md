@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.JS and MongoDB**
 
-- 👨‍💻 All of my projects are available at [gocmenfatih.net](gocmenfatih.net)
+- 👨‍💻 All of my projects are available at [fatihgocmen.net](fatihgocmen.net)
 
 - 💬 Ask me about **flutter, dart, node.js, php...**
 
