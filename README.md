@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="center">Hi 👋, I'm Fatih GÖÇMEN</p>
+<h1 align="center">Hi 👋, I'm Fatih GÖÇMEN</h1>
 
 ###
 
