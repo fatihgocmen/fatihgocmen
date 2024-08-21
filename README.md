@@ -146,3 +146,19 @@
 
 ###
 
+<h3 align="left">Random Dev Quote</h3>
+
+
+<div align="left">
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
+
+###
+
+<h3 align="left">Views</h3>
+
+<div align="left">
+[![](https://visitcount.itsvg.in/api?id=fatihgocmen&icon=0&color=11)](https://visitcount.itsvg.in)
+</div>
+
+
