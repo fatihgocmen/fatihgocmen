@@ -146,16 +146,3 @@
 
 ###
 
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/fatihgocmen/fatihgocmen/output/snake.svg" alt="Snake animation" />
-
-###
